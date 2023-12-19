@@ -1,13 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V8UrBiYG)
 
 # Universidade Federal de Juiz de Fora
-# DCC202-2023.3 - Desenvolvimento Web
-# Professor Igor Knop
-# Aluna: Vitória Isabela de Oliveira 202065097AC
+### DCC202-2023.3 - Desenvolvimento Web
+### Professor Igor Knop
+### Aluna: Vitória Isabela de Oliveira 202065097AC
 
 ***
 
-# Esbugalhado
+## Esbugalhado
 
 O jogo foi inspirado por uma história onde Beto Carneiro encontrou um pequeno rato falante chamado Ratão. Ratão convenceu o Carneiro a jogar um jogo de dados muito diferente, chamado Esbugalhado, valendo todo o queijo que ele tinha. Depois de perder todo o seu queijo, Carneiro ficou intrigado com o jogo e contratou você para programar uma aplicação web que implementasse o jogo.
 
@@ -27,6 +27,9 @@ Para jogar, o usuário deve clicar no botão "Rolar Dado" para gerar um valor al
 O jogo termina quando todas as células do tabuleiro de um dos jogadores estão preenchidas. O vencedor é o jogador com a maior pontuação, que é calculada com base nas regras descritas acima.
 
 Depois que o jogo termina, o usuário pode clicar no botão "Jogar novamente" para iniciar uma nova partida.
+
+![image](https://github.com/ufjf-dcc202/ufjf-dcc202-2023-3-a-trb-vitoria-isabela/assets/65192005/2ef468ed-9591-4705-878e-19f5714eb6f8)
+
 
 ## Implementação
 
