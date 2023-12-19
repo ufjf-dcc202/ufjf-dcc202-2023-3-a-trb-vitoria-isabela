@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Esbugalhado - Vitória Isabela de Oliveira Matrícula 202065097AC</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Jogo Esbugalhado </h1>
+        <h3>
+            Universidade Federal de Juiz de Fora - Dep DCC
+            <br>
+            DCC202-2023.3 - Desenvolvimento Web
+            <br>
+            Professor Igor Knop
+            <br>
+            Vitória Isabela de Oliveira Matrícula 202065097AC</h3>
+    </header>
+
+    <main>
+        <div class="player-board player1" id="player1-board">
+            <h2>Tabuleiro do Beto Carneiro</h2>
+        </div>
+        <div class="player-board player2" id="player2-board">
+            <h2>Tabuleiro do Ratão</h2>
+        </div>
+    </main>
+
+    <div id="game-controls">
+        <button id="roll-dice-btn">Rolar Dado</button>
+        <div id="dice-value"></div>
+        <div id="score"></div>
+        <div id="winner" class="winner"></div>
+        <button id="play-again" style="display:none;">Jogar novamente</button>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+
+</html>
